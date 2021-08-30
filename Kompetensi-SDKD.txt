@@ -5,4 +5,7 @@ KOMPETENSI SDKD
 -Komunikasi Daring Asinkron
 *Email
 -GITHUB
+*Membuat akun 
+*Membuat repository (file baru dan commit)
 -GIT
+*Belum
