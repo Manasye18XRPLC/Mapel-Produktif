@@ -1,6 +1,8 @@
 KOMPETENSI SDKD
 
 -Komunikasi Daring Sinkron
+*Line
 -Komunikasi Daring Asinkron
+*Email
 -GITHUB
 -GIT
