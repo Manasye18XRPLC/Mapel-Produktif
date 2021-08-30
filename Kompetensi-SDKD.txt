@@ -10,3 +10,4 @@ KOMPETENSI SDKD
 *Membuat file baru 
 *Membuat commit
 -GIT
+*Belum
